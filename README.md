@@ -2,6 +2,7 @@
 
 This project implements a distributed system using Java, consisting of a master node and multiple worker nodes. 
 The system supports different messaging patterns including one-to-one, broadcasting, and round-robin messaging.
+All the code is in the master branch.
 
 ### System Components
 
@@ -14,7 +15,7 @@ The system supports different messaging patterns including one-to-one, broadcast
 
    Clone the project repository to your local machine using:
    ```bash
-   git clone [<repository-url>](https://github.com/xangeee/Distributed-Ping-Pong-System.git)
+   git clone https://github.com/xangeee/Distributed-Ping-Pong-System.git
    ```
 
 2. **Running the Code**
