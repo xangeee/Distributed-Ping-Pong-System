@@ -14,15 +14,11 @@ The system supports different messaging patterns including one-to-one, broadcast
 
    Clone the project repository to your local machine using:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/xangeee/Distributed-Ping-Pong-System.git)
    ```
-   Replace `<repository-url>` with the actual URL of your Git repository.
 
 2. **Running the Code**
 
-Here's the corrected grammar for your instructions:
-
----
 
 Navigate to the project directory `src/` and choose the messaging pattern to execute (one-to-one, broadcasting, or round-robin messaging):
 ```bash
