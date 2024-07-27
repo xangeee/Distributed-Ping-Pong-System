@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Master:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Master_jar</output-path>
+    <root id="archive" name="Distributed-Ping-Pong-System.jar">
+      <element id="module-output" name="Distributed-Ping-Pong-System" />
+    </root>
+  </artifact>
+</component>
